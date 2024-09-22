@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+#container {
+    background-color: #091c4f;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+#container div{
+    width: 600px;
+    height: 200px;
+
+}

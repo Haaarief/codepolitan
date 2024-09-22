@@ -3,4 +3,15 @@ div{
     border: 8px solid black;
     padding: 50px;
     margin: 20px ;
+    border-width: 10px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    border-left-style:double;
+    border-bottom-style:double;
+    border-color: aqua  ;
+}
+
+div{
+    padding: 10px 40px;
+    margin: 10px;
 }
